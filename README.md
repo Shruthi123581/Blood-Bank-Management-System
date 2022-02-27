@@ -1,4 +1,6 @@
-# Blood-Bank
+# Blood-Bank-Management-System
+
+![image](https://user-images.githubusercontent.com/79088745/155879686-f44c8e29-f936-41a0-abac-d3c2d51bff1e.png)
 
 This Project is Made for Future ready talent offered by microsoft azure https://bloodbankmanagementsystem.azurewebsites.net/
 
